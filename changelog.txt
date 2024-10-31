@@ -1,0 +1,41 @@
+
+== Changelog ==
+
+
+= 5.0.2 =
+*  release pro version for sale
+
+= 5.0.1 =
+* Added Whatapps Share 
+
+= 4.0.0 = 
+
+* Pro Version.
+* Button Design Updated
+
+= 3.0.0 = 
+
+* Social Share Features Modify with Button Design.
+* Social Counter Features Added with Button Design.
+
+
+= 2.0.1 = 
+
+* Social Share Modify with Design Change.
+
+= 2.0.0 = 
+
+* Authentication error solved
+* Remove Authentication Laibray & Develop Authentication System for 13 providers.
+
+= 1.0.1 =
+
+* Added Feed Sharing Services for 20+ providers
+
+= 1.0.0 =
+
+* Facebook, Google, Twitter, Linkedin, GitHub, BitBucket, Dribble, Wordpress, Instagram, Envato, Pinterest, Mailchimp, Yandex
+
+= 0.0.1 - 25 Feb 2019 =
+
+* Initial release
